@@ -38,9 +38,19 @@ This repository is being collaboratively managed using Data Version Control (DVC
 
 ## Instructions for Pulling Changes
 1. Clone the repository: `git clone <repository_URL>`
+
+   ![O_2](https://github.com/MaryamKhalid0863/MLOPS_Task_6_20I0863_20I0745/assets/106441632/c189b9fa-08e4-48f7-b018-55aa045a5bd4)
+   
+
 2. Navigate to the cloned repository directory: `cd <repository_name>`
+
+![O_3](https://github.com/MaryamKhalid0863/MLOPS_Task_6_20I0863_20I0745/assets/106441632/4557ed2b-e8c5-4b85-a926-44022510ae5f)
+
+   
 3. Initialize DVC: `dvc init`
 4. Link the repository to the same remote storage location: `dvc remote add origin <remote_storage_URL>`
 5. Pull the dataset from remote storage: `dvc pull`
+   
+![O_4](https://github.com/MaryamKhalid0863/MLOPS_Task_6_20I0863_20I0745/assets/106441632/169c6530-35bc-4c1f-b246-45ad7be2ca83)
 
 By following these steps, you'll be able to contribute to the project and retrieve the dataset for further analysis or development.
