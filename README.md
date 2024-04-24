@@ -12,11 +12,17 @@ This repository was created to collaborate on managing a dataset using Data Vers
 ## Instructions for Creating the Repository
 1. Clone the repository: `git clone <repository_URL>`
 3. Navigate to the cloned repository directory: `cd <repository_name>`
-4. Initialize DVC: `dvc init`
-5. Add the dataset to DVC: `dvc add <path_to_dataset>`
-6. Commit the changes: `git add .` and `git commit -m "Add dataset"`
-7. Link the repository to a remote storage location: `dvc remote add origin <remote_storage_URL>`
-8. Push the dataset to remote storage: `dvc push`
+
+
+![1](https://github.com/MaryamKhalid0863/MLOPS_Task_6_20I0863_20I0745/assets/159745729/6b49a0e9-8532-483a-a105-174a8d16b83a)
+
+5. Initialize DVC: `dvc init`
+6. Add the dataset to DVC: `dvc add <path_to_dataset>`
+
+   
+8. Commit the changes: `git add .` and `git commit -m "Add dataset"`
+9. Link the repository to a remote storage location: `dvc remote add origin <remote_storage_URL>`
+10. Push the dataset to remote storage: `dvc push`
 
 # Repository Cloning and Dataset Retrieval
 
